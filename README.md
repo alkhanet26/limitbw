@@ -17,7 +17,7 @@
 Jalankan perintah dibawah ini ke terminal untuk instalasi:
 
 ```
-wget --no-check-certificate "https://raw.githubusercontent.com/vitoharhari/limitbw/main/installer" -O /tmp/installer && chmod +x /tmp/installer && sh /tmp/installer && limitbw
+wget --no-check-certificate "https://raw.githubusercontent.com/alkhanet26/limitbw/main/installer" -O /tmp/installer && chmod +x /tmp/installer && sh /tmp/installer && limitbw
 ```
 
 ### Pemakaian
